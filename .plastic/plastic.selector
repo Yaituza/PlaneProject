@@ -1,0 +1,4 @@
+repository "Fighter Planes F24@Yaituza@cloud"
+  path "/"
+    br "/main"
+    co "/main"
